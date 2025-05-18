@@ -81,37 +81,3 @@ searchbtn.addEventListener("click", (e) => {
      }
     fetchrecipe(searchinput);//searchinput convert into a query in fetchrecipe funtion me
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-shortcuts 
-     response.meals.forEach (meal => {
-        console.log(meal);
-      });*/
